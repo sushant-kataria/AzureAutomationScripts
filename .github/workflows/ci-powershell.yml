@@ -21,4 +21,4 @@ jobs:
         
       - name: Run PowerShell Script
         run: |
-          pwsh -newazurevm.ps1
+          pwsh newazurevm.ps1
